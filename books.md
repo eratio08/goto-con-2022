@@ -48,7 +48,7 @@ Books mentioned at the conference
 
 ## Is Software Engineering Still an Oxymoron?
 
-* [Engineering a Safer world](Engineering a Safer World: Systems Thinking Applied to Safety)
+* [Engineering a Safer world](https://www.goodreads.com/book/show/13697424-engineering-a-safer-world)
 * [Thinking fast and flow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 * [Software Engineering at Google](https://www.goodreads.com/book/show/48816586-software-engineering-at-google)
 
